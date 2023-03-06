@@ -5,7 +5,7 @@ Perform the following tasks and *edit this file* to show your results. Most imag
 You can [download FIJI here](https://fiji.sc)  
 
 ### A great reference for this assignment is [Introduction to Bioimage Analysis](https://bioimagebook.github.io/index.html) by Pete Bankhead.  
-
+#Got Help from Chloe_3.5.23
 #### *Task 1:*
 Answer the following questions about the [Phase contrast](image_files/PhaseContrast.tif) and [Differential interference contrast](image_files/DifferentialInterference.tif) images:
 Q1) What is the maximum intensity value in the [Differential interference contrast](image_files/DifferentialInterference.tif) file? 
@@ -15,10 +15,12 @@ Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.ti
 A2) **(314, 226, 8-bit)**  
 
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
-A3) **DiffInt has a higher dynamic range of pixel intensities.** 
+A3) **DiffInt has a higher dynamic range of pixel intensity compared to Phase image** 
 
 #### *Task 2:*
 Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.tif) and convert all the signal in the red channel to the blue channel, export the file as a JPG and upload it to this repository in the [image_files](image_files) directory with the name "Composite.jpg".  
+
+![Composite_KC](https://user-images.githubusercontent.com/122548626/222994716-7ccc8549-b681-4d6e-9cdb-6d14ab414288.jpg)
 
 The file should automatically show below when uploaded correctly and this file is viewed on GitHub.  
 ![](image_files/Composite.jpg)  
@@ -33,6 +35,7 @@ Save the results as "Results.csv" and upload into the same directory where this 
 
 Also save the resultant "Count Mask" image file with the name "Count_Mask_22946173.tif" and upload into the [image_files](image_files) directory. (It should show up below once it is uploaded).  
 ![](image_files/Count_Mask_22946173.tif)  
+![Count_Mask_22946173](https://user-images.githubusercontent.com/122548626/222994774-7ee6d8db-7edd-413e-9989-9bc69cfa0184.jpg)
 
 Q4) How many particles were detected?  
 A4) **1417** 
